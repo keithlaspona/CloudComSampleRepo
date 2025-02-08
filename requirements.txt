@@ -1,0 +1,3 @@
+Flask == 9.11.10
+Langchain-Community
+Gemini Flash
